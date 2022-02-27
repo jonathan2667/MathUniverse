@@ -3,7 +3,7 @@ This is the project README file.
 
 This is a game written in Java using the Greenfoot framework for a National Java Competition.
 
-The game was made by Borodi Bogdan and Mogovan Jonathan, 2 high-school student from Bistrita.
+The game was made by Borodi Bogdan( @SenorBorodi )and Mogovan Jonathan (@jonathan2667) , 2 high-school student from Bistrita.
 
 Its purpose is to help children learn trough the process of playing games and avoiding the boring and traditional part of teaching.
 Students can learn a varity of imporant skills and they develop a variety of connections with the content and can form positive memories of learning. 
