@@ -29,6 +29,13 @@ Borodi Bogdan
 Mogovan Jonathan
 
 USER INSTRUCTIONS:
+
+TO DOWNLOAD THE GAME ACCES THE Download.txt file.
+GREENFOOT MUST BE INSTALLED.
+https://www.greenfoot.org/download
+
+
+
 Instructions will be explained in the youtube video.
 The script in romanian can be found here :
 
@@ -61,7 +68,6 @@ Revenim la ecranul principal folosid butonul HOME.
 
 Urmeaza sa parcurgem toate cele 4 universuri.
 
-""""PAUZA""""
 
 Incepem cu cel al adunarii. Dupa cum se observa este un univers maritim.
 
@@ -80,7 +86,6 @@ O alta modalitate este sa apasam cu mouse ul raspunsul corect.
 
 Continuam jocul si incercam sa raspundem la intrebari.
 
-""""PAUZA""""
 
 La final, clasamentul se face dupa ordinea in care se trece linia de final. Castigatorul este anuntat vizual printr un trofeu si auditiv prin aplauze.
 
@@ -90,7 +95,6 @@ Urmeaza afisarea clasamentului. Fiecare jucator este asezat in ordinea sosirii. 
 Revenirea la ecranul principal se poate face pe toata perioada jocului sau chiar acum prin apasarea butonului BACK regasit in stanga jos.
 
 
-""""PAUZA""""
 
 Vom continua cu universul inmultirii care este o derivata a primului univers vizitat.
 
@@ -107,8 +111,6 @@ Datorita vanturilor extreme din acest univers misterios suntem fie avansati sau 
 
 Jocul se coninua si la final departajarea premiilor se face pe baza pozitiei in clasament. Regasim din nou intrebariile gresite si revenim in final la ecranul principal pentru a continua explorararea niversurilor ramase
 
-
-""""PAUZA""""
 
 
 Intram astfel in al 3lea univers, cel marcat de semnul minus pe harta vizitata la inceputul jocului
@@ -133,7 +135,6 @@ Dupa cele 10 intrebari, ne sunt afisate anumite statistici, precum acuratetea, n
 Revenim la ecranul principal folosind butonul HOME.
 
 
-"""PAUSE""""
 
 Ultimul univers este universul impartirii, un univers al animalelor.
 
