@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WinntersTrophies4thPlaceAdditionMultiplication
+comment0.text=\r\n\ WinntersTrophies4thPlaceAdditionMultiplication\r\n\ \r\n\ Clasa\ folosita\ pentru\ al\ 4lea\ trofeu.\r\n\ Este\ apelata\ si\ creata\ doar\ in\ WinnersAdditionMultiplicationWorld.\r\n
+comment1.params=
+comment1.target=WinntersTrophies4thPlaceAdditionMultiplication()
+comment1.text=\r\n\ Constructor\ in\ care\ scalam\ imaginea\ corespunzator.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

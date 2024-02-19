@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CharacterWinnersAdditionMultiplication
+comment0.text=\r\n\ CharacterWinnersAdditionMultiplication\r\n\ \r\n\ Actor\ folosit\ in\ mod\ exclusiv\ de\ WinnersAdditionMultiplicationWorld\r\n\ Folosind\ procedee\ de\ inheretance\ cream\ aceasta\ clasa\ pentru\ toti\ cei\ 4\ jucatori.\r\n\ De\ asemenea,\ vom\ aplica\ o\ miscare\ usoara\ si\ lejera\ asupra\ actorilor\ folosind\ functii\ Greenfoot\r\n
+comment1.params=position\ imageName
+comment1.target=CharacterWinnersAdditionMultiplication(int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ care\ primeste\ anumiti\ parametrii\ atunci\ cand\ este\ creat.\r\n\ \r\n\ 1.\ Positia\ universului\r\n\ 2.\ Numele\ imaginii\ pe\ care\ o\ reprezinta\ actorul.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=start\ stop
+comment3.target=void\ setMovement(int,\ int)
+comment3.text=\r\n\ Functie\ in\ care\ este\ descris\ un\ algoritm\ care\ efectuaza\ miscarea\ actorilor\ pentru\ toti\ cei\ 4.\r\n\ Miscarea\ este\ incet\ realizata\ folosindu-se\ proprietati\ si\ functii\ Greenfoot.\r\n
+numComments=4

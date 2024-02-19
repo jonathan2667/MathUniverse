@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CharactersAdditionMultiplication
+comment0.text=\r\n\ CharacterWinnersAdditionMultiplication\r\n\ \r\n\ Folosit\ de\ SelectPersonAdditionMultiplicationWorld\ si\ de\ EquationsAdditionMultiplication\r\n\ Folosind\ procedeul\ de\ inheritance\ se\ va\ crea\ actorul\ care\ va\ fi\ ales\ de\ jucator.\r\n
+comment1.params=position\ imageName
+comment1.target=CharactersAdditionMultiplication(int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ care\ primeste\ anumiti\ parametrii\ atunci\ cand\ este\ creat.\r\n\ \r\n\ Indexarea\ corecta\ a\ actorului\ si\ imaginea\ corecta\ folosindu-se\ anumite\ proprietati\ de\ "Inheritance"\ particulare\ limbajului\ Java.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Functia\ act\ in\ care\ apelam\ functia\ pentru\ miscare\ si\ verificam\ daca\ am\ ales\ actorul.\r\n\ In\ caz\ afirmativ,\ retinem\ informatia\ despre\ indexare,\ pornim\ muzica\ si\ schimbam\ lumea\ catre\ urmatoarea.\r\n
+comment3.params=
+comment3.target=int\ selectedPerson()
+comment3.text=\r\n\ Functie\ statica\ care\ va\ fi\ apelata\ de\ alti\ actori\ pentru\ informatii\ despre\ indexare.\r\n
+comment4.params=start\ stop
+comment4.target=void\ setMovement(int,\ int)
+comment4.text=\r\n\ Functie\ in\ care\ este\ descris\ un\ algoritm\ care\ efectuaza\ miscarea\ actorilor\ pentru\ toti\ cei\ 4.\r\n\ Miscarea\ este\ incet\ realizata\ folosindu-se\ proprietati\ si\ functii\ Greenfoot.\r\n
+numComments=5

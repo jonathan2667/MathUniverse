@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=OrderBoxesSelectPersonAdditionMultiplication
+comment0.text=\r\n\ OrderBoxesSelectPersonAdditionMultiplication\r\n\ \r\n\ Indexarea\ jucatorilor\ posibili\ folosind\ inheritance.\r\n
+comment1.params=position\ color
+comment1.target=OrderBoxesSelectPersonAdditionMultiplication(int,\ greenfoot.Color)
+comment1.text=\r\n\ Constructor\ care\ primeste\ pozitia\ casutei\ text\ atunci\ cand\ este\ creata\ si\ culoarea\ dorita.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

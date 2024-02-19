@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Player1AdditionMultiplication
+comment0.text=\r\n\ Player1AdditionMultiplication\r\n\ \r\n\ Clasa\ reprezenta\ de\ toti\ jucatorii\ posibili.\r\n
+comment1.params=imageName
+comment1.target=Player1AdditionMultiplication(java.lang.String)
+comment1.text=\r\n\ Constructor\ care\ primeste\ un\ String\ cu\ numele\ imaginii\ atunci\ cand\ este\ creat.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Avansam\ jucatorul\ si\ efectuam\ miscari\ de\ rotatie\ asupra\ acestuia\ pentru\ efectul\ de\ deplasare\ cat\ mai\ autentica.\r\n
+numComments=3

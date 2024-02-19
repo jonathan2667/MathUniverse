@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=OtherTextAdditionMultiplication
+comment0.text=\r\n\ OtherTextAdditionMultiplication\r\n\ \r\n\ Clasa\ universala\ pentru\ orice\ fel\ de\ text\ care\ nu\ necesita\ particularitati\ speciale\ precum\ animatii.\r\n\ \r\n
+comment1.params=text\ size\ color1\ color2\ color3
+comment1.target=OtherTextAdditionMultiplication(java.lang.String,\ int,\ greenfoot.Color,\ greenfoot.Color,\ greenfoot.Color)
+comment1.text=\r\n\ Constructor\ care\ primeste\:\r\n\ \r\n\ 1.\ Textul\ dorit\ sa\ se\ afiseze\r\n\ 2.\ Marimea\ textului\r\n\ 3.\ Culori\ pentru\ font,\ outline,\ si\ bg.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

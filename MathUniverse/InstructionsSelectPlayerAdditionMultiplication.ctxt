@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=InstructionsSelectPlayerAdditionMultiplication
+comment0.text=\r\n\ InstructionsSelectPlayerAdditionMultiplication\r\n\ \r\n\ Instructiunile\ pentru\ SelectPersonAdditionMultiplicationWorld.\r\n
+comment1.params=text
+comment1.target=InstructionsSelectPlayerAdditionMultiplication(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Vom\ efectua\ o\ animatie\ asupra\ textul;ui\ folosind\ functia\ wrapAtEdge\r\n
+numComments=3

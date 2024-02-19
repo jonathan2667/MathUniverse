@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SolveAdditionMultiplication
+comment0.text=\r\n\ SolveAdditionMultiplication\r\n\ \r\n\ Clasa\ folosita\ pentru\ organizarea\ mai\ eficienta\ a\ claselor.\r\n\ De\ asemenea,\ se\ realizeaza\ algortimul\ de\ efect-raspuns\ atunci\ cand\ este\ atinsa\ casuta\ corespunzatoare.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=value
+comment2.target=void\ printOnSquares(java.lang.String)
+comment2.text=\r\n\ Functie\ care\ va\ afisa\ anumite\ valori\ folosite\ de\ subclasele\ acestui\ actor.\r\n
+comment3.params=key\ downImage\ upImage
+comment3.target=void\ keyPressed(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Algortimul\ de\ efect-raspuns\ atunci\ cand\ este\ atinsa\ casuta\ corespunzatoare.\r\n
+numComments=4

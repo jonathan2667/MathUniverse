@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DropMoversStarsAdditionMultiplication
+comment0.text=\r\n\ DropMoversStarsAdditionMultiplication\r\n\ \r\n\ Actor\ in\ care\ vom\ reprezenta\ valurile\ de\ apa\ in\ cazul\ universului\ PLUS\ si\ cometele\ in\ cazul\ universului\ de\ inmultire.\r\n\ Folosim\ functii\ declarate\ in\ clasele\ superioara\ din\ punct\ de\ vedere\ al\ ierarhie\ Java\r\n
+comment1.params=imageName
+comment1.target=DropMoversStarsAdditionMultiplication(java.lang.String)
+comment1.text=\r\n\ Constructor\ care\ primeste\ un\ String\ cu\ numele\ imaginii\ atunci\ cand\ este\ creat.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Adaugam\ miscare\ lejera\ folosind\ functia\ move.\r\n\ Verificam\ daca\ au\ ajuns\ la\ marginea\ ecranului\ folosind\ functii\ din\ actori\ cu\ grad\ de\ importanta\ mai\ mare.\r\n\ Functia\ este\ explicata\ in\ MoversAdditionMultiplication\r\n
+numComments=3

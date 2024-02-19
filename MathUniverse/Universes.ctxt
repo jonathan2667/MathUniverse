@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Universes
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Universes\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=int\ getUniversePosition()
+comment3.params=x\ y
+comment3.target=void\ scaleDownImage(int,\ int)
+comment4.params=min\ max
+comment4.target=void\ wrapAtEdge(int,\ int)
+comment5.params=min\ max
+comment5.target=void\ wrapAtEdgeVertical(int,\ int)
+numComments=6

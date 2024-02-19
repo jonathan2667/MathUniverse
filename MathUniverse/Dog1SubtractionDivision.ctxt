@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Dog1SubtractionDivision
+comment1.params=
+comment1.target=Dog1SubtractionDivision()
+comment2.params=start\ end
+comment2.target=int\ getRandomNumber(int,\ int)
+comment3.params=
+comment3.target=void\ reset()
+comment4.params=
+comment4.target=void\ touch()
+comment5.params=
+comment5.target=void\ check()
+comment6.params=
+comment6.target=void\ act()
+numComments=7

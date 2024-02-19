@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TimeLeftAdditionMultiplication
+comment0.text=\r\n\ TimeLeftAdditionMultiplication\r\n\ \r\n\ Clasa\ in\ care\ va\ fi\ reprezentat\ cronometrul\ cu\ ajuturol\ librariei\ java.util.Date;.\r\n
+comment1.params=
+comment1.target=TimeLeftAdditionMultiplication()
+comment1.text=\r\n\ Constructor-setam\ imaginea.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ print()
+comment3.text=\r\n\ Afisam\ cronometrul.\r\n\ Verificam\ secundele\ ramase,\ in\ cazul\ in\ care\ cronometrul\ ajunge\ la\ 0,\ emitem\ un\ sunet\ pentru\ a\ marca\ sfarsitul\ jocului.\r\n
+numComments=4

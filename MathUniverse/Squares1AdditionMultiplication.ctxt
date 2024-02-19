@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Squares1AdditionMultiplication
+comment0.text=\r\n\ Squares1AdditionMultiplication\r\n\ \r\n\ Clasa\ care\ va\ fi\ reprezentata\ ca\ si\ casuta\ pentru\ raspunsuri.\r\n
+comment1.params=key\ upImage\ downImage\ value\ position
+comment1.target=Squares1AdditionMultiplication(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ care\ primeste\ anumiti\ parametrii\ atunci\ cand\ este\ creat.\r\n\ \r\n\ 1.\ Positia\ sub\ forma\ String\r\n\ 2.\ Numele\ imaginii\ cand\ nu\ este\ apasata\ casuta.\r\n\ 3.\ Numele\ imaginii\ cand\ este\ apasata\ casuta.\r\n\ 4.\ Raspunsul\ sau\ valoarea\ casutei.\r\n\ 5.\ Pozitia\ de\ indexare\ sub\ form\ de\ Int.\r\n\ \r\n\ Variabile\ se\ folosesc\ in\ clasele\ cu\ grad\ de\ importanta\ mai\ ridicat.\r\n\ Ele\ sunt\ doar\ initializat\ aici.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Verficam\ anumite\ proprietati\ si\ apelam\ functii\ explicate\ in\ clasele\ din\ care\ fac\ parte.\r\n
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MultiplicationUniverse
+comment0.text=\r\n\ MultiplicationUniverse\r\n\ \r\n\ Universul\ reprezentat\ de\ jocul\ in\ care\ se\ vor\ efectua\ inmultirile.\ \r\n
+comment1.params=imageName\ scaleX\ scaleY\ universePosition
+comment1.target=MultiplicationUniverse(java.lang.String,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ care\ primeste\ anumiti\ parametrii\ atunci\ cand\ este\ creat.\r\n\ \r\n\ 1.\ Numele\ imaginii.\r\n\ 2.\ Scalarea\ pe\ X\r\n\ 3.\ Scalarea\ pe\ Y\r\n\ 4.\ Pozitia\ universului\ ales/\r\n\ \r\n\ Variabile\ se\ folosesc\ in\ \ alte\ clase.\r\n\ Ele\ sunt\ doar\ initializat\ aici.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

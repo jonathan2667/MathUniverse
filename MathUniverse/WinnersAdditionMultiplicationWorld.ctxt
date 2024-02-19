@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=WinnersAdditionMultiplicationWorld
+comment0.text=\r\n\ WinnersAdditionMultiplicationWorld\r\n\ \r\n\ World\ in\ care\ va\ apare\ in\ mod\ explicit\ clasamentul.\r\n\ Precedat\ de\ AdditionMultiplicationWorld\ si\ urmat\ de\ MyWorld\r\n\ Clasa\ contine\ putini\ algoritmi,\ elementele\ de\ grafica\ regasindu-se\ mult\ mai\ abundent.\r\n
+comment1.params=universePosition\ arrOrdered\ score\ wrongAnswers\ firstOperand\ secondOperand\ thirdOperand\ index
+comment1.target=WinnersAdditionMultiplicationWorld(int,\ int[],\ int,\ int,\ int[],\ int[],\ int[],\ int)
+comment1.text=\r\n\ Constructor\ care\ primeste\ anumiti\ parametrii\ atunci\ cand\ este\ creat.\r\n\ \r\n\ 1.\ Operatiile\ gresite\ ale\ jucatorului.\r\n\ 2.\ Daca\ World\ este\ Addition\ sau\ Multiplication\ pentru\ a\ diferienta\ actorii\r\n\ 3.\ Scorul\ jucatorului.\r\n\ 4.\ Numarul\ de\ greseli\ facute.\r\n\ 5.\ Vector\ cu\ clasamentul\ real\ a\ tuturor\ jucatorilor.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Functia\ in\ care\ daca\ nu\ este\ realizata\ nicio\ actiune\ sau\ se\ doreste\ revenirea,\ se\ va\ reveni\ automat\ la\ ecranul\ principal-MyWorld\ dupa\ un\ anumit\ interval\ de\ timp.\r\n
+comment3.params=
+comment3.target=void\ verifyIdenticalOperand()
+comment3.text=\r\n\ Functie\ in\ care\ vom\ avea\ un\ algoritm\ care\ va\ verifica\ sa\ nu\ avem\ aceasi\ operatii\ gresite\ de\ mai\ multe\ ori.\ \r\n\ S-au\ folosit\ 3\ vectori\ pentru\ reprezentarea\ ecuatiilor,\ dar\ se\ puteau\ folosi\ la\ fel\ de\ bine\ niste\ structuri\ de\ date\ mai\ eficiente\ si\ inteligente.\r\n
+comment4.params=
+comment4.target=void\ prepare()
+comment4.text=\r\n\ Functie\ in\ care\ vom\ pregati\ toate\ conditiile\ necesare\ pentru\ afisarea\ clasamentului\ final.\r\n\ Vor\ exista\ diferente\ pe\ care\ le\ vom\ defini\ cu\ ajutorul\ universului\ ales\ de\ jucator,\ fie\ cel\ al\ adunarii\ sau\ al\ inmultirii.\r\n\ Initializam\ crespunzator\ in\ vectorul\ imageNames,\ numele\ imaginilor\ actorilor\ pe\ care\ le\ vom\ afisa\ mai\ departe\ si\ alte\ diferente\ la\ nivel\ de\ imagini\ sau\ text.\r\n\ Imaginile\ pentru\ fiecare\ trofeu\ se\ vor\ crea\ in\ aceasta\ functie.\r\n\ Scorul\ si\ accuratetea\ jucatorului\ va\ fi\ de\ asemenea\ calculata\ in\ aceste\ randuri.\ \r\n
+comment5.params=
+comment5.target=boolean\ verifyClick()
+comment5.text=\r\n\ Functie\ interna\ in\ care\ verificam\ daca\ se\ apasa\ pe\ butonul\ de\ revenire\ la\ ecranul\ principal.\r\n
+numComments=6

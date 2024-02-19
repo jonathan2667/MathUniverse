@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TextSubtractionDivision
+comment1.params=txt\ dim\ w\ black_or_white
+comment1.target=TextSubtractionDivision(java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

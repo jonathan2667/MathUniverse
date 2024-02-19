@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SelectPersonAdditionMultiplicationWorld
+comment0.text=\r\n\ SelectPersonAdditionMultiplicationWorld\r\n\ \r\n\ World\ Folosit\ Pentru\ A\ Selecta\ Personajul\ Dorit\r\n\ Este\ precedat\ de\ MyWordl\ si\ urmat\ de\ AdditionMultiplicationWorld,\ ca\ si\ ordine\ de\ executie\ al\ programului.\r\n\ Clas\ scurta\ care\ contine\ 4\ imagini,\ un\ titlu\ si\ care\ permite\ trecere\ la\ urmatorul\ pas\ al\ jocului,\ dupa\ alegerea\ jucatorului.\r\n\ Alegerea\ jucatorului\ se\ poate\ realiza\ fie\ cu\ un\ click(mouse)\ sau\ folosind\ tastele\ "1",\ "2",\ "3"\ si\ "4",\ reprezentate\ de\ un\ jucator\ diferit.\r\n
+comment1.params=universePosition
+comment1.target=SelectPersonAdditionMultiplicationWorld(int)
+comment1.text=\r\n\ Constructor\ care\ primeste\ pozitia\ universului(semnul\ universului)\ atunci\ cand\ este\ creat.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\r\n\ Pregatim\ World\ folosind\ structura\ if/else\ pentru\ a\ diferienta\ universele\ intre\ ele.\r\n\ Se\ atribuie\ anumite\ variabile\ si\ sunt\ folosite\ functii\ uzuale\ din\ Greenfoot\ pentru\ a\ reprezenta\ imaginile\ si\ instructiuniile\ necesare.\r\n
+comment4.params=
+comment4.target=boolean\ verifyClick()
+numComments=5

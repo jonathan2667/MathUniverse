@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CrossingLineAdditionMultiplication
+comment0.text=\r\n\ CrossingLineAdditionMultiplication\r\n
+comment1.params=imageName
+comment1.target=CrossingLineAdditionMultiplication(java.lang.String)
+comment1.text=\r\n\ Constructor\ care\ primeste\ un\ String\ cu\ numele\ imaginii\ atunci\ cand\ este\ creat.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Adaugam\ miscare\ liniei\ de\ start\ folosind\ functia\ move.\r\n
+numComments=3

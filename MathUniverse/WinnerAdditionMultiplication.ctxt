@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=WinnerAdditionMultiplication
+comment0.text=\r\n\ WinnerAdditionMultiplication\r\n\ \r\n\ Reprezentarea\ grafica\ a\ castigatorului\ in\ AdditionMultiplicationWorld.\r\n
+comment1.params=
+comment1.target=WinnerAdditionMultiplication()
+comment1.text=\r\n\ Constructor\ in\ care\ vom\ afisa\ castigatorul.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Castigatorul\ este\ reprezentat\ de\ un\ trofeu\ atunci\ cand\ trece\ linia\ de\ final.\r\n\ Adaugam\ o\ miscare\ lejera\ si\ lenta.\r\n
+numComments=3

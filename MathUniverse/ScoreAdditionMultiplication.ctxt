@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ScoreAdditionMultiplication
+comment0.text=\r\n\ ScoreAdditionMultiplication\r\n\ \r\n\ Reprezentarea\ grafica\ a\ scorului\ se\ va\ realiza\ de\ catre\ aceasta\ clasa.\r\n
+comment1.params=
+comment1.target=ScoreAdditionMultiplication()
+comment1.text=\r\n\ Constructor\ in\ care\ vom\ afisa\ scorul.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Schimbam\ daca\ este\ cazul\ scorul.\r\n\ Score-\ fiind\ o\ varibila\ globala\ care\ se\ schimba\ in\ cazul\ unui\ raspuns\ corect.\r\n
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BadAnswerSubtractionDivision
+comment1.params=color
+comment1.target=BadAnswerSubtractionDivision(int)
+comment2.params=a\ b
+comment2.target=int\ max(int,\ int)
+comment3.params=start\ end
+comment3.target=int\ getRandomNumber(int,\ int)
+comment4.params=
+comment4.target=void\ update()
+comment5.params=
+comment5.target=void\ act()
+numComments=6

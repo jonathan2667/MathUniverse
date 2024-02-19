@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BackToMenuAdditionMultiplication
+comment0.text=\r\n\ BackToMenuAdditionMultiplication\r\n\ \r\n\ Clasa\ folosita\ in\ cazul\ in\ care\ dorim\ reveniera\ la\ ecranul\ principal.\r\n
+comment1.params=imageName\ scaleX\ scaleY
+comment1.target=BackToMenuAdditionMultiplication(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Constructor\ in\ care\ primim\ numele\ imaginii\ si\ scalam\ corespunzator\ parametrilor\ primiti.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3
